@@ -1,2 +1,2 @@
 # HTML-Prof.-Angelo
-Repositório destinado ao upload de arquivos para registrar o aprendizado em sala de aula com o professor Ângelo.
+# Repositório destinado ao registro de aprendizagem em HTML do Professor Ângelo.
